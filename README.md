@@ -1,1 +1,1 @@
-A collection of my progress through my Progress in Full Stack path
+A collection of my progress through the Odin Project Full Stack path
